@@ -212,7 +212,7 @@ export function DyoxyLogo({ size = 48, showText = true, className = '' }: DyoxyL
               fontWeight: 600
             }}
           >
-            DATA INTELLIGENCE
+            DATA & AI
           </span>
         </div>
       )}
