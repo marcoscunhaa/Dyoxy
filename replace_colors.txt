@@ -1,0 +1,8 @@
+Substituições a fazer:
+#FACC15 → #A855F7
+#FDE047 → #C084FC  
+#EAB308 → #9333EA
+250, 204, 21 → 168, 85, 247
+yellow-400 → purple-400
+yellow-500 → purple-500
+yellow-600 → purple-600

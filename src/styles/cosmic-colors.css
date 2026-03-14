@@ -1,0 +1,202 @@
+/**
+ * Cosmic Tech Premium Color Mappings
+ * 
+ * Este arquivo contém as substituições de cores do Tailwind CSS
+ * para a paleta Cosmic Tech Premium
+ */
+
+/* Aplicar globalmente */
+@layer utilities {
+  /* Background Colors - Cosmic Tech */
+  .bg-gray-950 {
+    background-color: #0B0F1A !important;
+  }
+  
+  .bg-gray-900 {
+    background-color: #12172A !important;
+  }
+  
+  .bg-gray-800 {
+    background-color: #1A2036 !important;
+  }
+  
+  .bg-gray-700 {
+    background-color: #222944 !important;
+  }
+  
+  /* Text Colors - Cosmic Tech */
+  .text-gray-100 {
+    color: #E5E7EB !important;
+  }
+  
+  .text-gray-200 {
+    color: #E5E7EB !important;
+  }
+  
+  .text-gray-300 {
+    color: #D1D5DB !important;
+  }
+  
+  .text-gray-400 {
+    color: #9CA3AF !important;
+  }
+  
+  .text-gray-500 {
+    color: #6B7280 !important;
+  }
+  
+  /* Border Colors - Cosmic Tech */
+  .border-gray-700 {
+    border-color: #222944 !important;
+  }
+  
+  .border-gray-800 {
+    border-color: #1A2036 !important;
+  }
+  
+  /* Primary Brand Colors */
+  .text-purple-300 {
+    color: #C4B5FD !important;
+  }
+  
+  .text-purple-400 {
+    color: #A78BFA !important;
+  }
+  
+  .text-blue-300 {
+    color: #93C5FD !important;
+  }
+  
+  .text-blue-400 {
+    color: #60A5FA !important;
+  }
+  
+  .bg-purple-500 {
+    background-color: #8B5CF6 !important;
+  }
+  
+  .bg-blue-500 {
+    background-color: #5B7CFF !important;
+  }
+  
+  .bg-blue-600 {
+    background-color: #4F6EE6 !important;
+  }
+  
+  .border-purple-500 {
+    border-color: #8B5CF6 !important;
+  }
+  
+  .border-blue-500 {
+    border-color: #5B7CFF !important;
+  }
+  
+  /* Hover states */
+  .hover\:bg-gray-700:hover {
+    background-color: #222944 !important;
+  }
+  
+  .hover\:text-purple-400:hover {
+    color: #A78BFA !important;
+  }
+  
+  .hover\:text-blue-400:hover {
+    color: #60A5FA !important;
+  }
+  
+  .hover\:border-purple-500:hover {
+    border-color: #8B5CF6 !important;
+  }
+  
+  .hover\:border-purple-400:hover {
+    border-color: #A78BFA !important;
+  }
+  
+  .hover\:border-gray-600:hover {
+    border-color: #374151 !important;
+  }
+  
+  /* Group hover states */
+  .group-hover\:text-purple-400:hover {
+    color: #A78BFA !important;
+  }
+  
+  .group-hover\:text-blue-400:hover {
+    color: #60A5FA !important;
+  }
+  
+  /* Opacity variants */
+  .bg-gray-950\/90 {
+    background-color: rgba(11, 15, 26, 0.9) !important;
+  }
+  
+  .bg-gray-950\/95 {
+    background-color: rgba(11, 15, 26, 0.95) !important;
+  }
+  
+  .bg-gray-900\/50 {
+    background-color: rgba(18, 23, 42, 0.5) !important;
+  }
+  
+  .bg-gray-800\/50 {
+    background-color: rgba(26, 32, 54, 0.5) !important;
+  }
+  
+  .bg-gray-800\/80 {
+    background-color: rgba(26, 32, 54, 0.8) !important;
+  }
+  
+  .bg-gray-800\/30 {
+    background-color: rgba(26, 32, 54, 0.3) !important;
+  }
+  
+  .border-gray-700\/50 {
+    border-color: rgba(34, 41, 68, 0.5) !important;
+  }
+  
+  .bg-purple-500\/10 {
+    background-color: rgba(139, 92, 246, 0.1) !important;
+  }
+  
+  .bg-purple-500\/20 {
+    background-color: rgba(139, 92, 246, 0.2) !important;
+  }
+  
+  .bg-blue-500\/10 {
+    background-color: rgba(91, 124, 255, 0.1) !important;
+  }
+  
+  .bg-blue-500\/20 {
+    background-color: rgba(91, 124, 255, 0.2) !important;
+  }
+  
+  .border-purple-500\/10 {
+    border-color: rgba(139, 92, 246, 0.1) !important;
+  }
+  
+  .border-purple-500\/20 {
+    border-color: rgba(139, 92, 246, 0.2) !important;
+  }
+  
+  .border-purple-500\/30 {
+    border-color: rgba(139, 92, 246, 0.3) !important;
+  }
+  
+  .border-blue-500\/20 {
+    border-color: rgba(91, 124, 255, 0.2) !important;
+  }
+  
+  .hover\:bg-purple-500\/10:hover {
+    background-color: rgba(139, 92, 246, 0.1) !important;
+  }
+}
+
+/* Animação Shimmer Premium para botões */
+@keyframes shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
