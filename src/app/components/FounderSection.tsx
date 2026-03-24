@@ -83,9 +83,9 @@ export function FounderSection() {
                     }}
                   >
                     <img
-                      src="https://i.ibb.co/LD5wsjJQ/Whats-App-Image-2026-03-12-at-19-55-39.jpg"
+                      src="https://i.ibb.co/nqRLZpfd/Chat-GPT-Image-24-de-mar-de-2026-09-23-43.png"
                       alt="Marcos Cunha - Founder & CEO"
-                      className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
+                      className="w-full h-full object-cover object-top transition-transform duration-700 group-hover:scale-110"
                     />
                   </div>
                 </div>
