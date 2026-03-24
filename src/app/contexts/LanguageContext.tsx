@@ -61,7 +61,7 @@ const translations = {
             "Excel automation",
             "Data pipelines",
             "Automated reports",
-            "System integrations",
+            "Web Scraping & Market Intelligence",
           ],
         },
         {
@@ -146,7 +146,7 @@ const translations = {
       },
       techs: {
         ai: ["TensorFlow", "PyTorch", "OpenAI", "Hugging Face", "Scikit-learn", "LangChain"],
-        data: ["Python", "Julia", "Apache Spark", "Pandas", "NumPy", "Kafka", "Airflow"],
+        data: ["Python", "Julia", "Pandas", "NumPy", "Scrapy", "Apache Spark", "Kafka", "Airflow"],
         visualization: ["Power BI", "Tableau", "Metabase", "Superset", "Plotly"],
         cloud: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Snowflake", "BigQuery"],
       },
@@ -270,7 +270,7 @@ const translations = {
       badge: "Leadership & Vision",
       name: "Marcos Cunha",
       title: "Founder & CEO",
-      description: "Marcos Cunha is a software engineer and founder of Dyoxy.\nHis work is to analyze business challenges, define metrics and design custom technological solutions using data engineering, artificial intelligence and automation to solve real business problems.",
+      description: "Marcos Cunha is a Solutions Architect & Strategic Consultant of Dyoxy.\nHis work is to analyze business challenges, define metrics and design custom technological solutions using data engineering, artificial intelligence and automation to solve real business problems.",
       expertise: ["Software Architecture", "Data Engineering", "AI & Automation", "Cloud Infrastructure", "Big Data"],
       contact: "Get in Touch",
     },
@@ -320,7 +320,7 @@ const translations = {
             "Automação de Excel",
             "Pipelines de dados",
             "Relatórios automatizados",
-            "Integrações de sistemas",
+            "Coleta Automatizada de Dados da Web",
           ],
         },
         {
@@ -405,7 +405,7 @@ const translations = {
       },
       techs: {
         ai: ["TensorFlow", "PyTorch", "OpenAI", "Hugging Face", "Scikit-learn", "LangChain"],
-        data: ["Python", "Julia", "Apache Spark", "Pandas", "NumPy", "Kafka", "Airflow"],
+        data: ["Python", "Julia", "Pandas", "NumPy", "Scrapy", "Apache Spark", "Kafka", "Airflow"],
         visualization: ["Power BI", "Tableau", "Metabase", "Superset", "Plotly"],
         cloud: ["AWS", "Google Cloud", "Azure", "Docker", "Kubernetes", "Terraform", "Snowflake", "BigQuery"],
       },
@@ -529,7 +529,7 @@ const translations = {
       badge: "Liderança & Visão",
       name: "Marcos Cunha",
       title: "Fundador & CEO",
-      description: "Marcos Cunha é engenheiro de software e fundador da Dyoxy.\nSeu trabalho é analisar desafios empresariais, definir métricas e projetar soluções tecnológicas sob medida utilizando engenharia de dados, inteligência artificial e automação para resolver problemas reais de negócio.",
+      description: "Marcos Cunha é arquiteto de soluções e consultor estratégico da Dyoxy.\nSeu trabalho é analisar desafios empresariais, definir métricas e projetar soluções tecnológicas sob medida utilizando engenharia de dados, inteligência artificial e automação para resolver problemas reais de negócio.",
       expertise: ["Arquitetura de Software", "Engenharia de Dados", "IA & Automação", "Infraestrutura Cloud", "Big Data"],
       contact: "Entre em Contato",
     },
