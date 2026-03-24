@@ -530,7 +530,7 @@ const translations = {
       name: "Marcos Cunha",
       title: "Fundador & CEO",
       description: "Marcos Cunha é arquiteto de soluções e consultor estratégico da Dyoxy.\nSeu trabalho é analisar desafios empresariais, definir métricas e projetar soluções tecnológicas sob medida utilizando engenharia de dados, inteligência artificial e automação para resolver problemas reais de negócio.",
-      expertise: ["Arquitetura de Software", "Engenharia de Dados", "IA & Automação", "Infraestrutura Cloud", "Business Intelligence"],
+      expertise: ["Arquitetura de Software", "Engenharia de Dados", "IA & Automação", "Infraestrutura Cloud", "Inteligência de Negócios"],
       contact: "Entre em Contato",
     },
   },
