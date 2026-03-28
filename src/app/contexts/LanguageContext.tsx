@@ -61,7 +61,8 @@ const translations = {
             "Excel automation",
             "Data pipelines",
             "Automated reports",
-            "Web Scraping & Market Intelligence",
+            "Systems integration",
+            "Web Scraping",
           ],
         },
         {
@@ -320,7 +321,8 @@ const translations = {
             "Automação de Excel",
             "Pipelines de dados",
             "Relatórios automatizados",
-            "Coleta Automatizada de Dados da Web",
+            "Integração de sistemas",
+            "Coleta de Dados da Web",
           ],
         },
         {
